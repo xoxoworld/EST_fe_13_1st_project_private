@@ -22,7 +22,7 @@
 | 이름   | 역할                              | 주요 담당                                                                                         | GitHub                                     | 연락                 |
 | ------ | --------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
 | 이성희 | 팀원,기획, 디자인, 구현, GIt 담당 | 현황분석(반응형)<br>벤치마킹(반응형 웹)<br>HERO section, HERO Mega Menu section, Frontend section | [@xoxoworld](https://github.com/xoxoworld) | sung021125@gmail.com |
-|  |
+|        |
 
 ### 1.3 🗓️ 마일스톤
 
@@ -200,14 +200,3 @@ git clone https://github.com/xoxoworld/EST_fe_13_1st_project
   링크: https://www.figma.com/file/XXXX
 - **디자인 원본(피그마)**: 컴포넌트, 컬러/타이포 스케일, 반응형 레이아웃, 아이콘
   링크: https://www.figma.com/file/YYYY
-
-### 7.1 미리보기
-
-<!-- /public/readme/ 폴더에 썸네일 PNG를 넣고 경로를 맞춘다 -->
-
-[![기획서 미리보기](./public/readme/figma-slides-thumb.png)](https://www.figma.com/file/XXXX "피그마 슬라이드로 이동")
-[![디자인 미리보기](./public/readme/figma-slides-thumb.png)](https://www.figma.com/file/YYYY "피그마 디자인으로 이동")
-
-```
-
-```
